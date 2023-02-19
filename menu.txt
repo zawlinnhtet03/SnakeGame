@@ -1,0 +1,8 @@
+
+
+				Press 's' to start.
+
+				 'h'	HELP 
+				 'q'    QUIT
+
+				Enjoy the game created by Group 1...

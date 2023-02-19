@@ -1,0 +1,15 @@
+
+
+
+
+			Welcome to the snake game!
+
+			Please use WASD for changing the directions of snake.
+
+			W, A, S and D represent up, left, down and right, respectively.
+
+			The game ends when the snake collides with the wall or its own body.
+
+			Each time the snake eats the food, your score increases.
+
+			Enjoy the game created by Group 1...^^
